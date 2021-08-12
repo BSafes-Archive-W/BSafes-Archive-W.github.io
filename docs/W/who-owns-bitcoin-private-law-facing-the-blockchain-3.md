@@ -2,7 +2,7 @@
 layout: default
 title: B. CODE’S RESISTANCE TO THE LAW 
 parent: § Who Owns Bitcoin? Private Law Facing the Blockchain 
-Wgrand_parent: W
+grand_parent: W
 nav_order: 30 
 ---
 <style>
