@@ -181,6 +181,7 @@ of theft, blackmail, and fraud that have been advocated here. Such an internatio
 
 ### Table of Contents
 {: .no_toc}
-<ul><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-1/">INTRODUCTION</a></li><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-2/">A. DOES CODE NEED LAW?</a></li><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-3/">B. CODE’S RESISTANCE TO THE LAW</a></li><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-4/">C. HOW TO RECONCILE DLT AND PRIVATE LAW</a></li><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-5/">D. COUNTER-ARGUMENTS AND COMPLICATIONS</a></li><li> <a href="/docs/cryptocurrency/who-owns-bitcoin-private-law-facing-the-blockchain-6/">CONCLUSION</a></li></ul>
+
+<ul><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-1/">INTRODUCTION</a></li><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-2/">A. DOES CODE NEED LAW?</a></li><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-3/">B. CODE’S RESISTANCE TO THE LAW</a></li><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-4/">C. HOW TO RECONCILE DLT AND PRIVATE LAW</a></li><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-5/">D. COUNTER-ARGUMENTS AND COMPLICATIONS</a></li><li> <a href="/docs/W/who-owns-bitcoin-private-law-facing-the-blockchain-6/">CONCLUSION</a></li></ul>
 
 </div>
