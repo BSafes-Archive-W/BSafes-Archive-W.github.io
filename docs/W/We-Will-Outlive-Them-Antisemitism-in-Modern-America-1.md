@@ -41,11 +41,11 @@ nav_order: 10
 
 ## We Will Outlive Them - Antisemitism in Modern America
 
-Ethan Shipp
-Germanna Community College
-English 112
-D. Nicole Swann-Willette
-April 04, 2021
+Ethan Shipp  
+Germanna Community College  
+English 112  
+D. Nicole Swann-Willette  
+April 04, 2021   
 
 October 26th, 2018 was, for all intents and purposes, a perfectly normal Friday. That night I drove to my synagogue for weekly Shabbat services, schmoozed with my fellow congregants, and said my goodbyes. The next day, I awoke to a chilling headline declaring that 11 people had lost their lives in a synagogue shooting in Pittsburgh that very morning. For anyone who had previously doubted whether antisemitism was a real threat in modern America, there were now 11 more reasons to say otherwise. While much of the world was shocked that such an atrocity could occur, in America of all places, Jewish communities like my own were simply faced with confirmation of a fact we have long known; antisemitism is still alive and well and is on the rise. Only by understanding the nature of modern antisemitism and by actively choosing to show solidarity can this new yet incredibly old hatred be addressed, and perhaps, one day, extinguished forever.
 
